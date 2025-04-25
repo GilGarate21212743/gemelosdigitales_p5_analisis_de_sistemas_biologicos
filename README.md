@@ -1,4 +1,4 @@
-[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=GilGarate21212743/gemelosdigitales-regresionnolineal)
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=GilGarate21212743/gemelosdigitales_p5_analisis_de_sistemas_biologicos)
 
 # Gemelos Digitales. Práctica 5: Análisis de Sistemas Biológicos [GilGarate-21212743]
 
